@@ -1,2 +1,2 @@
 # Tipicly-tip-calculator
-<img src='http://i.imgur.com/eTlCkne.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/eTlCkne.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
